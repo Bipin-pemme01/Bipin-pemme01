@@ -1,3 +1,4 @@
+![logo](https://github.com/Bipin-pemme01/Bipin-pemme01/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Pemme Bipin sai varma</h1>
 <h3 align="center">A passionate Data Analyst & Full stack developer!</h3>
 
