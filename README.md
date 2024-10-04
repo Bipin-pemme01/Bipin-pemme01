@@ -1,6 +1,6 @@
 ![logo](https://github.com/Bipin-pemme01/Bipin-pemme01/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Pemme Bipin sai varma</h1>
-<h3 align="center">A passionate Data Analyst & Full stack developer!</h3>
+<h3 align="center">A passionate computer vision Engineer & SDE!</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin-pemme01&label=Profile%20views&color=0e75b6&style=flat" alt="bipin-pemme01" /> </p>
